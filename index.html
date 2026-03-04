@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+    window.tailwind = window.tailwind || {};
+    window.tailwind.config = {
+      darkMode: "class"
+    };
+  </script>
+  <title>Git & Github demo</title>
+
+    <script src="script.js" defer></script>
+
+</head>
+<body class="bg-white dark:bg-slate-900 transition duration-300">
+
+<!-- switch mode button -->
+   <button 
+      data-btn="switch-mode"
+      class="
+      absolute right-2 top-2 p-2 
+      flex items-center justify-center
+      rounded-full
+      bg-gradient-to-r from-sky-400 via-blue-500 to-indigo-500 
+      dark:bg-gradient-to-t dark:from-blue-500/70 dark:via-slate-600 dark:to-slate-700
+      transition-all duration-300
+      hover:brightness-110"
+
+    >
+      <img data-img="icon" class="size-8" src="./img/night-mode.png" alt="Night mode icon">
+    </button>
+
+</body>
+</html>
