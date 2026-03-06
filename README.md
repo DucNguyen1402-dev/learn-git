@@ -1,6 +1,3 @@
-Gemini đã nói
-Đây là bản README tiếng Anh tối giản, chuyên nghiệp và cực kỳ "clean" để bạn nộp bootcamp. Mình đã tinh chỉnh từ ngữ để nghe giống một developer thực thụ hơn nhé:
-
 🚀 Base Startup Landing Page
 A modern, high-performance landing page built entirely with Tailwind CSS. This project demonstrates UI implementation skills as part of my Bootcamp portfolio.
 
@@ -28,5 +25,6 @@ Clone the repo: git clone <your-repo-link>
 Install dependencies: npm install
 
 Run dev mode: npm run dev (or open index.html)
+
 
 Developed by [Your Name] - Bootcamp Student.
