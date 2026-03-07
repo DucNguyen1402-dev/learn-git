@@ -3,12 +3,13 @@ A modern, high-performance landing page built entirely with Tailwind CSS. This p
 
 🔗 Live Demo
 
-🛠 Core Tech Stack
+🛠 Tech Stack
+HTML5 (Semantic structure)
 Tailwind CSS (Utility-first styling)
+Vanilla JavaScript (Interactions & animations)
 React 
-Angular
-Control flow
-
+Control Flow
+>>>>>>> 8c391e488777fdf1e2321b49da89dc55d6d8e021
 
 ✨ Key Features
 Fully Responsive: Optimized for Mobile, Tablet, and Desktop.
@@ -28,3 +29,4 @@ Run dev mode: npm run dev (or open index.html)
 
 
 Developed by [Your Name] - Bootcamp Student.
+
