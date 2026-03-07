@@ -3,12 +3,12 @@ A modern, high-performance landing page built entirely with Tailwind CSS. This p
 
 🔗 Live Demo
 
-🛠 Tech Stack
-HTML5 (Semantic structure)
-
+🛠 Core Tech Stack
 Tailwind CSS (Utility-first styling)
+React 
+Angular
+Control flow
 
-Vanilla JavaScript (Interactions & animations)
 
 ✨ Key Features
 Fully Responsive: Optimized for Mobile, Tablet, and Desktop.
